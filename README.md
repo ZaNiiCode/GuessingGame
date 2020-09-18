@@ -1,2 +1,2 @@
 # GuessingGame
-A fun guessing game website application
+A fun guessing game website application, using PHP
